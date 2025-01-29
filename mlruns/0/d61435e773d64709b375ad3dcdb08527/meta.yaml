@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d61435e773d64709b375ad3dcdb08527/artifacts
+end_time: 1738119279819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d61435e773d64709b375ad3dcdb08527
+run_name: capable-snake-793
+run_uuid: d61435e773d64709b375ad3dcdb08527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738119247721
+status: 4
+tags: []
+user_id: surabhi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/292ab00695bd45a29f70628ababec14d/artifacts
+end_time: 1737633416834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 292ab00695bd45a29f70628ababec14d
+run_name: fearless-crow-395
+run_uuid: 292ab00695bd45a29f70628ababec14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737633416604
+status: 3
+tags: []
+user_id: surabhi

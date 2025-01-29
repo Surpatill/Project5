@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9e0c16fd90984251b4d5c9629bec0e93/artifacts
+end_time: 1737898400780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e0c16fd90984251b4d5c9629bec0e93
+run_name: agreeable-shad-131
+run_uuid: 9e0c16fd90984251b4d5c9629bec0e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737898400547
+status: 3
+tags: []
+user_id: surabhi

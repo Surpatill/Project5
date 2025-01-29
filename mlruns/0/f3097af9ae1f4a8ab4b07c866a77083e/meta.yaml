@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f3097af9ae1f4a8ab4b07c866a77083e/artifacts
+end_time: 1737900629965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3097af9ae1f4a8ab4b07c866a77083e
+run_name: funny-skink-255
+run_uuid: f3097af9ae1f4a8ab4b07c866a77083e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737900608531
+status: 4
+tags: []
+user_id: surabhi
